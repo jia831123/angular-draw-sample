@@ -8,7 +8,7 @@ Angular+Rxjs
 撰寫上為一碰到的問題是 Canvas 設定長寬要注意，若用css 去設定會發生畫筆與鼠標不同步的問題。
 
 
-(線上demo)[https://stackblitz.com/edit/angular-ivy-jgc3ph?file=src%2Fapp%2Fdraw%2Fdraw.component.ts]
+[線上demo](https://stackblitz.com/edit/angular-ivy-jgc3ph?file=src%2Fapp%2Fdraw%2Fdraw.component.ts)
 ```typescript
 
 
